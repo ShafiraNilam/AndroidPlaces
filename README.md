@@ -1,7 +1,9 @@
 # ShushMe
-Google Places API demo app
-
 ## Screenshots
+![Images](https://github.com/ShafiraNilam/AndroidPlaces/blob/master/Screenshot_20170916-215017.png)
+![Images](https://github.com/ShafiraNilam/AndroidPlaces/blob/master/Screenshot_20170916-220423.png)
+![Images](https://github.com/ShafiraNilam/AndroidPlaces/blob/master/Screenshot_20170917-163535.png)
+![Images](https://github.com/ShafiraNilam/AndroidPlaces/blob/master/Screenshot_20170917-171316.png)
+![Images](https://github.com/ShafiraNilam/AndroidPlaces/blob/master/Screenshot_20170917-172613.png)
+![Images](https://github.com/ShafiraNilam/AndroidPlaces/blob/master/Screenshot_20170917-172619.png)
 
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) ![Screenshot6](screenshots/screen_6.png)
